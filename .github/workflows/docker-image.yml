@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: shdsuihu32h3iuh/kb
+          tags: shdsuihu32h3iu/kb
